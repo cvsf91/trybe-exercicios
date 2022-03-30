@@ -1,1 +1,1 @@
-Repositório de exercícios do módulo Fundamentos do Desenvolvimento Web
+Este repositório contém os exercícios do curso de Desenvolvimento Web da Trybe
